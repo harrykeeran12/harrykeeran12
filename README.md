@@ -1,10 +1,14 @@
 
+#Hey! I'm Harry!
 
+---
 <ul>Languages I know:
  <li> Python </li>
 <li> JavaScript </li>
   <li> C#(kinda) </li>
-  </ul>
+</ul>
+
+---
 <ul>Languages (and frameworks) I'd like to learn:
   <li> React </li>
   <li> Bootstrap </li>
