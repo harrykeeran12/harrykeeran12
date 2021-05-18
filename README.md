@@ -1,6 +1,7 @@
 
 <h1>Hey! 
 I'm Harry!</h1>
+<p>I'm interested in web development, and back end development!</p>
 
 ---
 <ul>Languages I know:
@@ -10,11 +11,13 @@ I'm Harry!</h1>
 </ul>
 
 ---
+
 <ul>Languages (and frameworks) I'd like to learn:
-  <li> React </li>
-  <li> Bootstrap </li>
-  <li> SASS</li>
-  <li> Electron </li>
+  <li> - [ ] React </li> 
+  <li>- [ ] Bootstrap </li>
+  <li> - [ ] SASS</li>
+  <li> - [ ] Electron </li>
+  <li> - [ ] Flask or Django </li>
 </ul>
 <a href="https://gist.github.com/harrykeeran12">Check out my gists!</a>
 <!--
