@@ -19,6 +19,10 @@ I'm Harry!</h1>
   <li> - [ ] Electron </li>
   <li> - [ ] Flask or Django </li>
 </ul>
+
+---
+
+<h3>My end goal is to become a fullstack developer! </h3>
 <a href="https://gist.github.com/harrykeeran12">Check out my gists!</a>
 <!--
 **harrykeeran12/harrykeeran12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
