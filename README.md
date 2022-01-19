@@ -13,11 +13,11 @@ I'm Harry!</h1>
 ---
 
 <ul>Languages (and frameworks) I'd like to learn:
-  <li> - [ x ] React </li> 
+  <li> - [ ] React </li> 
   <li> - [ ] SASS</li>
   <li> - [ ] Electron </li>
   <li> - [ ] Flask or Django </li>
- <li> - [ ] Next.js </li>
+  <li> - [ ] Next.js </li>
 </ul>
 
 ---
