@@ -24,7 +24,7 @@
 
 ### My end goal is to become a software developer primarily, but that could entail many different paths/languages to learn. 
 ### Other interests I hold are literature and visual effects. 
-[Check out my gists!]("https://gist.github.com/harrykeeran12")
+[Check out my gists!](https://gist.github.com/harrykeeran12)
 
 ![Metrics](https://metrics.lecoq.io/harrykeeran12?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FLondon)
 <!--
