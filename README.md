@@ -1,7 +1,7 @@
 
 # Hey! I'm Harry!(my pronouns are he/they)
 
-
+## My current portfolio is located [here](https://harrykeeran12.github.io/).
 ---
 ## Languages I know:
 * Python
@@ -17,13 +17,13 @@
 ## Topics I want to learn more about:
 
 * AI/Machine Learning
-* Coding standards and best practises
+* Coding standards/best practices
 * Theoretical Computer Science
 ---
 
 
 
-### My end goal is to become a software developer primarily, but that could entail many different paths/languages to learn. 
+### My end goal is to become a software developer. I'd like to increase my knowledge however possible.  
 ### Other interests I hold are literature, visual effects and productivity. 
 
 
