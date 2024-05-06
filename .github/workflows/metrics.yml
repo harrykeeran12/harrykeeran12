@@ -1,4 +1,4 @@
-#This file manages the creation of metrics(updated it automatically) - 6/05/2024
+#This file manages the creation of the metrics on my profile; updates it automatically - 6/05/2024
 name: Metrics
 on:
   # Schedule daily updates
@@ -19,3 +19,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
+          plugin_habits: yes
+          plugin_activity: yes
