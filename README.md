@@ -2,29 +2,27 @@
 # Hey! I'm Harry!(my pronouns are he/they)
 
 ## My current portfolio is located [here](https://harrykeeran12.github.io/).
----
-## Languages I know:
-* Python
-* JavaScript
-* C#
-* Java
----
-
-## Languages I'm currently learning:
-* C
-
----
-## Topics I want to learn more about:
-
-* AI/Machine Learning
-* Coding standards/best practices
-* Theoretical Computer Science
----
 
 
+## Languages I've worked with:
+- Python
+- JavaScript
+- C
+- C#(Unity)
+- Java
+- MATLAB
 
-### My end goal is to become a software developer. I'd like to increase my knowledge however possible.  
-### Other interests I hold are literature, visual effects and productivity. 
+## Languages I'd like to learn
+- Rust
+- C++
+
+## Fields I'd like to learn more about:
+
+- Natural Language Processing
+- Better coding standards + improvements to the quality of my code.
+
+
+My end goal is to become a software developer. I'd like to increase my knowledge however possible. Other interests I hold are literature, visual effects and productivity. 
 
 
 
