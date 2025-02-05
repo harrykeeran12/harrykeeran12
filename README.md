@@ -25,7 +25,7 @@
 My end goal is to become a software developer. I'd like to increase my knowledge however possible. Other interests I hold are literature, visual effects and productivity. 
 
 
-
+![image](https://github.com/user-attachments/assets/ab4c78d1-00e4-4075-9166-69181f161431)
 ![Metrics](/github-metrics.svg)
 <!--
 **harrykeeran12/harrykeeran12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
