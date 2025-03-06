@@ -31,18 +31,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1109 Commits
+                            1113 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.9060304812874" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="434.9060304812874" y="0" width="14.232324255307269" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.13835473659464" y="0" width="4.24542665843783" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.3837813950325" y="0" width="2.5595435231532795" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.9433249181858" y="0" width="1.1898793988277745" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.13320431701356" y="0" width="1.0464993214101965" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="458.17970363842375" y="0" width="0.9767088224905511" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.1564124609143" y="0" width="0.8435875390857216" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.8927157145581" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="434.8927157145581" y="0" width="14.24045858063647" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.1331742951946" y="0" width="4.250809657174848" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.3839839523694" y="0" width="2.559465162030288" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.9434491143997" y="0" width="1.1898429703454796" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.13329208474516" y="0" width="1.0464672825480739" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="458.17975936729323" y="0" width="0.9766789202835859" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.1564382875768" y="0" width="0.8435617124231521" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -290,7 +290,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 53.2 characters per line of code written</li>
+                        <li>Has approximately 52.6 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -305,6 +305,30 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">harrykeeran12/cs4525-honours-project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#db5b810</div>
+                                        <div class="message">fix: added JSON schema to the preliminary evaluation using pydantic.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21f8557</div>
+                                        <div class="message">fix: started work on the webview part of the project.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -378,36 +402,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">harrykeeran12/cs4525-honours-project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#61f4461</div>
-                                        <div class="message">fix: modified prelim_eval so that the dataframe is being written to and not the dictionary.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fca0b5</div>
-                                        <div class="message">fix: modified prelim_eval so that the dataframe is being written to and not the dictionary.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2025, 00:40:52  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Mar 2025, 00:40:39  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
